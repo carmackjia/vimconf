@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/codebase/lab/APScheduler-2.0.2/apscheduler/triggers'
+let g:netrw_dirhist_2='/var/www/localhost/htdocs/django-docs/_theme'
+let g:netrw_dirhist_3='/var/www/localhost/htdocs/isimdoc/.git'
+let g:netrw_dirhist_4='/codebase/isim/core/model/matcher'
+let g:netrw_dirhist_5='/root/zb_system/网报系统/内蒙古教育招生考试中心-中心2_files'
+let g:netrw_dirhist_6='/codebase/gitosis-admin'
+let g:netrw_dirhist_7='/codebase/bweb2/app/template'
+let g:netrw_dirhist_8='/etc/fonts/conf.avail'
+let g:netrw_dirhist_9='/root/.ssh'
